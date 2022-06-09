@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\UART-Tester\uarttester.mcppi
+Project1=ScheduleController.mcppi
+[ActiveProject]
+Index=1
